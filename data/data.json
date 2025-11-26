@@ -1,0 +1,1607 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "image": "question1.png",
+      "question": "What does this sign mean?",
+      "options": ["You must make a right turn only",
+                  "You must not make a left turn",
+                  "Hidden intersection ahead",
+                  "You are approaching a traffic island"
+      ],
+      "answer": "You must not make a left turn"
+    },
+    {
+      "id": 2,
+      "image": "question2.png",
+      "question": "What does this sign mean?",
+      "options": ["Pass to right of traffic island",
+                  "Road turns right then left",
+                  "Winding road ahead",
+                  "Pass other traffic on the right"
+      ],
+      "answer": "Pass to right of traffic island"
+    },
+    {
+        "id": 3,
+        "image": "question3.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Stop sign ahead",
+            "Yield right-of-way",
+            "Dead end street ahead",
+            "Slow moving vehicle ahead"
+        ],
+        "answer": "Slow moving vehicle ahead"
+    },
+    {
+        "id": 4,
+        "image": "question4.png",
+        "question": [
+        "What does this sign mean?",
+        "",
+        "1. Construction sign-slow down obey flagman‘s directions.",
+        "2. A construction sign replacing flagman on duty.",
+        "3. Regulatory sign-reduce speed.",
+        "4. This sign warns of highway work operations ahead."],
+        "options": ["Ans 1", "Ans 2", "Ans 3","Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 5,
+        "image": "question5.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Road slippery when wet",
+            "No right turn permitted",
+            "No left turn permitted",
+            "You must not make a ‘U’ Turn"
+        ],
+        "answer": "You must not make a ‘U’ Turn"
+    },
+    {
+        "id": 6,
+        "image": "question6.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Traffic signals ahead",
+            "Stop sign 150 meters (500 feet) ahead",
+            "Bump 125 meters (400 feet) ahead",
+            "Railway crossing ahead"
+        ],
+        "answer": "Traffic signals ahead"
+    },
+    {
+        "id": 7,
+        "image": "question7.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Destination board",
+            "School zone- watch for children playing",
+            "Provincial park",
+            "Pedestrian control sign meaning no active games"
+        ],
+        "answer": "Destination board"
+    },
+    {
+        "id": 8,
+        "image": "question8.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "You are approaching a four way intersection",
+            "You are approaching a railway crossing",
+            "You are approaching a hospital zone",
+            "You are approaching a pedestrian crosswalk"
+        ],
+        "answer": "You are approaching a railway crossing"
+    },
+    {
+        "id": 9,
+        "image": "question9.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "School area ahead",
+            "Railway crossing ahead",
+            "You must give the right-of-way",
+            "You have a right-of-way"
+        ],
+        "answer": "You must give the right-of-way"
+    },
+    {
+        "id": 10,
+        "image": "question10.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Stop sign 150 meters (500 feet) ahead",
+            "Bump 120 meters (400 feet) ahead",
+            "Stop all times",
+            "Stop only if other vehicles are approaching"
+        ],
+        "answer": "Stop all times"
+    },
+    {
+        "id": 11,
+        "image": "question11.png",
+        "question": ["What does this sign mean?",
+                      "",
+                      "1. No entry into intersection",
+                      "2. This sign means no stopping",
+                      "3. Vehicles approaching from the angle shown must stop",
+                      "4. Need to stop for stop signs in directions of arrows"],
+        "options": ["Ans 1", "Ans 2", "Ans 3","Ans 4"],
+        "answer": "Ans 2"
+    },
+    {
+        "id": 12,
+        "image": "question12.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Do not enter",
+            "Do not enter unless local traffic",
+            "Means a traffic circle ahead",
+            "Do not pass"
+        ],
+        "answer": "Do not enter"
+    },
+    {
+        "id": 13,
+        "image": "question13.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Hidden intersection ahead",
+            "Winding road ahead",
+            "Road slippery when wet",
+            "Narrow road ahead"
+        ],
+        "answer": "Winding road ahead"
+    },
+    {
+        "id": 14,
+        "image": "question14.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Stop sign",
+            "Yield sign",
+            "Slow moving vehicle",
+            "School bus stop arm"
+        ],
+        "answer": "School bus stop arm"
+    },
+    {
+        "id": 15,
+        "image": "question15.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Playground zone sign",
+            "Children playing in residential area",
+            "School zone sign",
+            "Directional sign for children"
+        ],
+        "answer": "School zone sign"
+    },
+    {
+        "id": 16,
+        "image": "question16.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Factory, slow down",
+            "Bump or uneven pavement",
+            "Construction zone",
+            "Bridge or viaduct"
+        ],
+        "answer": "Bump or uneven pavement"
+    },
+    {
+        "id": 17,
+        "image": "question17.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Divided highway ahead",
+            "Divided highway ends",
+            "Narrow bridge ahead",
+            "Road under construction"
+        ],
+        "answer": "Divided highway ahead"
+    },
+    {
+        "id": 18,
+        "image": "question18.png",
+        "question": ["What does this sign mean?",
+                    "",
+                    "1. Lane usage sign meaning right turn only",
+                    "2. Lane usage sign permitting all turns including left",
+                    "3. No parking from arrows to corner",
+                    "4. Advance warning danger"],
+        "options": ["Ans 1", "Ans 2", "Ans 3","Ans 4"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 19,
+        "image": "question19.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Divided highway ends",
+            "Narrow bridge ahead",
+            "Road under construction",
+            "Divided highway ahead"
+        ],
+        "answer": "Divided highway ends"
+    },
+    {
+        "id": 20,
+        "image": "question20.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "Bumpy road ahead",
+            "Pavement ends 500 feet ahead",
+            "Warns of a steep hill ahead",
+            "Safety checks ahead"
+        ],
+        "answer": "Warns of a steep hill ahead"
+    },
+    {
+        "id": 21,
+        "image": "question21.png",
+        "question": "What does this sign mean?",
+        "options": [
+            "You must not make a right turn",
+            "You are approaching traffic signal lights",
+            "You must not make left turn",
+            "You are approaching a stop sign"
+        ],
+        "answer": "You are approaching a stop sign"
+    },
+    {
+        "id": 22,
+        "image": "question22.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Road ahead slippery when wet",
+        "Bumpy road ahead",
+        "Winding road ahead",
+        "Railway crossing ahead"
+        ],
+        "answer": "Road ahead slippery when wet"
+    },
+    {
+        "id": 23,
+        "image": "question23.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Divided highway ahead",
+        "You are approaching a one-way street?",
+        "Hidden intersection ahead",
+        "Pavement narrows"
+        ],
+        "answer": "Pavement narrows"
+    },
+    {
+        "id": 24,
+        "image": "question24.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Intersection for school vehicles",
+        "School crosswalk sign.",
+        "Caution-school bus crossing",
+        "Regulatory sign"
+        ],
+        "answer": "Regulatory sign"
+    },
+    {
+        "id": 25,
+        "image": "question25.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Construction zone 1 km ahead",
+        "Bumpy road ahead",
+        "Narrow bridge ahead",
+        "Winding road ahead"
+        ],
+        "answer": "Construction zone 1 km ahead"
+    },
+    {
+        "id": 26,
+        "image": "question26.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Danger, sharp turn",
+        "Keep to left",
+        "Danger road ends.",
+        "Winding road ahead"
+        ],
+        "answer": "Danger, sharp turn"
+    },
+    {
+        "id": 27,
+        "image": "question27.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "You may pass me",
+        "I am slowing or stopping.",
+        "I am turning left",
+        "I am turning right"
+        ],
+        "answer": "I am turning left"
+    },
+    {
+        "id": 28,
+        "image": "question28.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "I am stopping.",
+        "I am slowing or stopping.",
+        "I am turning left.",
+        "I am turning right."
+        ],
+        "answer": "I am slowing or stopping."
+    },
+    {
+        "id": 29,
+        "image": "question29.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "You may pass me",
+        "I am turning right",
+        "I am turning left",
+        "I am slowing or stopping"
+        ],
+        "answer": "I am turning right"
+    },
+    {
+        "id": 30,
+        "image": "question30.png",
+        "question": ["What does this sign mean?",
+                      "",
+                      "1. You may exit if you remain in right hand lane.",
+                      "2. End of highway, you must move into right hand lane.",
+                      "3. You must not drive in right hand lane under any circumstances.",
+                      "4. You must exit if you remain in right hand lane."],
+        "options": ["Ans 1","Ans 2","Ans 3","Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 31,
+        "image": "question31.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "No trucks",
+        "Route for large trucks",
+        "Permissive sign",
+        "Truck route."
+        ],
+        "answer": "Permissive sign"
+    },
+    {
+        "id": 32,
+        "image": "question32.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Do not enter unless local traffic.",
+        "Means a traffic circle ahead",
+        "Prohibited sign",
+        "Do not enter roadway."
+        ],
+        "answer": "Prohibited sign"
+    },
+    {
+        "id": 33,
+        "image": "question33.png",
+        "question": "What does this sign mean?",
+        "options": [
+        "Hidden intersection",
+        "Right lane ends",
+        "You are approaching a steep hill.",
+        "Pedestrian crossing ahead"
+        ],
+        "answer": "Right lane ends"
+    },
+    {
+        "id": 34,
+        "image": "question34.png",
+        "question": ["What does this sign mean?",
+                    "",
+                    "1. Maximum speed of 50 kilometers (30 miles) per hour from this sign to next sign.",
+                    "2. Speed limit for rural school zones.",
+                    "3. End of 50 kilometers (30 miles) per hour zone.",
+                    "4. Maximum speed of 50 kilometers (30 miles) per hour ahead."],
+        "options": ["Ans 1","Ans 2","Ans 3","Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 35,
+        "image": "question35.png",
+        "question": ["When driving a motor vehicle on the highway at night you should use low beam headlight (dim lights) When:",
+                    "",
+                    "1. Meeting or following another vehicle?",
+                    "2. Blinded by the headlights of an approaching vehicle?",
+                    "3. Approaching an intersection?",
+                    "4. Another driver dims his lights"],
+        "options": ["Ans 1","Ans 2","Ans 3","Ans 4"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 36,
+        "image": "question36.png",
+        "question": ["Before leaving you car parked on a downgrade, you should:",
+                    "",
+                    "1. Turn your front wheel to the left and set your parking brake?",
+                    "2. Set your parking brake only?",
+                    "3. Leave your front wheels parallel to the curb?",
+                    "4. Turn your front wheels to the right and set your parking brake?"],
+        "options": ["Ans 1","Ans 2","Ans 3","Ans 4"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 37,
+        "image": "question36a.png",
+        "question": ["If you have G1 or G2 Licence and you are driving under influence of alcohol?",
+                    "",
+                    "1. You will be called for an interview",
+                    "2. Your Licence will be cancelled.",
+                    "3. You will receive a warning letter.",
+                    "4. Your Licence will be suspended for 30 days and you may be charged under criminal code."],
+        "options": ["Ans 1","Ans 2","Ans 3","Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 38,
+        "image": "question37.png",
+        "question": "If you have G1 or G2 Licence. What is the maximum level of blood alcohol concentration you could have?",
+        "options": [
+          "0.0%",
+          "0.05%",
+          "0.08%",
+          "0.5%"
+        ],
+        "answer": "0.0%"
+    },
+    {
+        "id": 39,
+        "image": "question38.png",
+        "question": "When on the streets designed for two way traffic, hear the siren of an emergency vehicle, what does the law require you to do?",
+        "options": [
+          "Pull to the right and stop",
+          "Speed up to get out of the way",
+          "Slow down to 15 kilometers (10 miles) an hour",
+          "Continue at the same speed"
+        ],
+        "answer": "Pull to the right and stop"
+    },
+    {
+        "id": 40,
+        "image": "question39.png",
+        "question": "When a 'School Bus' stops with red signals flashing the law requires drivers of other vehicles to:",
+        "options": [
+            "Reduce speed and pass with added care",
+            "Does not matter provided you sound horn",
+            "Wait for approaching vehicles to pass",
+            "Stop until the bus proceeds or the signal lights are no longer operating"
+        ],
+        "answer": "Stop until the bus proceeds or the signal lights are no longer operating"
+    },
+    {
+        "id": 41,
+        "image": "question40.png",
+        "question": "If you first convicted criminally for how long your Licence could be suspended",
+        "options": [
+            "One year",
+            "Two year",
+            "Three year",
+            "Five year"
+        ],
+        "answer": "One year"
+    },
+    {
+        "id": 42,
+        "image": "question41.png",
+        "question": "If you refuse to give Breathalyzer test or blood test or you have more than allowed alcohol in your blood or breath than for how long your licence could be suspended right way",
+        "options": [
+            "90 days",
+            "120 days",
+            "160 days",
+            "180 days"
+        ],
+        "answer": "90 days"
+    },
+    {
+        "id": 43,
+        "image": "question42.png",
+        "question": "The broken centre line on a roadway means you may:",
+        "options": [
+            "Never pass",
+            "Pass if the way is clear",
+            "Pass at any time",
+            "Pass only during daylight hours"
+        ],
+        "answer": "Pass if the way is clear"
+    },
+    {
+        "id": 44,
+        "image": "question43.png",
+        "question": "If a traffic signal changes while a pedestrian is still in the intersection, which of the following has the right of -way?",
+        "options": [
+            "Motorists making turns",
+            "Motorists coming from the left",
+            "Motorists coming from the right",
+            "The pedestrian"
+        ],
+        "answer": "The pedestrian"
+    },
+    {
+        "id": 45,
+        "image": "question44.png",
+        "question": "When approaching an intersection where a stop sign faces you, what does the law require you to do?",
+        "options": [
+            "Stop and then proceed",
+            "Stop and proceed when it is safe to do so",
+            "Slow down and proceed when it is safe to do so",
+            "Yield right of way if necessary to vehicles approaching from the left or right"
+        ],
+        "answer": "Stop and proceed when it is safe to do so"
+    },
+    {
+        "id": 46,
+        "image": "question45.png",
+        "question": ["When you are approaching the spot designated for streetcar to take on or discharge passengers, what you suppose to do",
+                    "",
+                    "If you are not driving in on one way street, you could go pass from right side, By driving very carefully, at moderate speed and keeping in mind of pedestrians",
+                    "Never pass that streetcar",
+                    "I you are not driving in on oneway street you could pass from right side",
+                    "Blow the horn and pass the street car"
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 3"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 47,
+        "image": "question46.png",
+        "question": "If you waiting in intersection to make left hand turn Lights turns red, What you should do?",
+        "options": [
+            "You should wait there because light is Red",
+            "Back up your car",
+            "Go straight but do not make a left turn",
+            "Make the Left turn when it is safe to do"
+        ],
+        "answer": "Make the Left turn when it is safe to do"
+    },
+    {
+        "id": 48,
+        "image": "question47.png",
+        "question": "Upon approaching an intersection marked with a 'yield' sign, you are required to:",
+        "options": [
+            "Keep same speed and look left and right",
+            "Stop, and then enter the intersection quickly",
+            "Stop, and then enter the intersection slowly",
+            "Enter intersection only when way is clear"
+        ],
+        "answer": "Enter intersection only when way is clear"
+    },
+    {
+        "id": 49,
+        "image": "question48.png",
+        "question": "The Traffic signal is not working and there is no body to direct the Traffic what you suppose to do?",
+        "options": [
+            "Stop and go Straight",
+            "Blow the horn and go Straight",
+            "Before you pass check your left & Right",
+            "Treat it like always stop Sign"
+        ],
+        "answer": "Treat it like always stop Sign"
+    },
+    {
+        "id": 50,
+        "image": "question49.png",
+        "question": "If you are neither passing somebody nor making a left turn, where you should drive your vehicle?",
+        "options": [
+          "Middle of the roadways.",
+          "Always drive on right side.",
+          "Always drive on left side.",
+          "Drive where every you want to drive."
+        ],
+        "answer": "Always drive on right side."
+    },
+    {
+        "id": 51,
+        "image": "question50.png",
+        "question": "When driving in heavy fog, you should use:",
+        "options": [
+          "Low beam headlights",
+          "Parking lights.",
+          "Parking lights and high...",
+          "High beam headlights"
+        ],
+        "answer": "Low beam headlights"
+    },
+    {
+        "id": 52,
+        "image": "question51.png",
+        "question": "Which of the following hand-and-arm signals is correct for slowing or stopping?",
+        "options": [
+            "Arm straight out of the window",
+            "Arm out and up",
+            "Arm out and down",
+            "Circle motion"
+        ],
+        "answer": "Arm out and down"
+    },
+    {
+        "id": 53,
+        "image": "question52.png",
+        "question": "If you have G1 Licence at what time you are not suppose to drive?",
+        "options": [
+            "½ hour after sunrise and ½ hour before sunset",
+            "From midnight till 5 am",
+            "In the Bad weather when visibility is poor",
+            "In Rush Hours"
+        ],
+        "answer": "From midnight till 5 am"
+    },
+    {
+        "id": 54,
+        "image": "question53.png",
+        "question": "If you have G1 Licence, you could only drive on 400 series Highway or any road where speed is more 80 Km. Hr.",
+        "options": [
+          "You have a certified Driving instructor with you.",
+          "Driver with 4 years driving Licence.",
+          "When carefully you could enter highway.",
+          "When you get make experience"
+        ],
+        "answer": "You have a certified Driving instructor with you."
+    },
+    {
+        "id": 55,
+        "image": "question54.png",
+        "question": "Should your right wheels drop off the roadway, what is the best way to get back in the roadway?",
+        "options": [
+            "Apply brakes to reduce speed",
+            "Steer hard to the left",
+            "Apply brakes and steer hard to the left",
+            "Take foot off gas pedal; turn back when vehicle has slowed"
+        ],
+        "answer": "Take foot off gas pedal; turn back when vehicle has slowed"
+    },
+    {
+        "id": 56,
+        "image": "question55.png",
+        "question": ["When there is cyclist in your lane you should?",
+                    "",
+                    "1. Blow the horn & Pass.",
+                    "2. Pass the cyclist in same lane.",
+                    "3. Check in mirrors, signal, check the blindspot, if it is safe make the lane change & pass the cyclist.",
+                    "4. Wait for the cyclist give the way then pass him."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 57,
+        "image": "question56.png",
+        "question": ["To avoid the collision, you should?",
+                    "",
+                    "1. Always keep your headlights on.",
+                    "2. Do not drive in busy traffic.",
+                    "3. Keep more space in left, right, front and back of your vehicle and try to adjust you speed accordingly.",
+                    "4. Don't drive in bad weather."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 58,
+        "image": "question57.png",
+        "question": "Except when you tend to overtake and pass another vehicle or when you intend to make a left turn, you should:",
+        "options": [
+            "Drive in the centre of the roadway",
+            "Always keep well to the right",
+            "Drive on the shoulder of the highway",
+            "Always keep well to the left"
+        ],
+        "answer": "Always keep well to the right"
+    },
+    {
+        "id": 59,
+        "image": "question58.png",
+        "question": "Which of the following has the right-of-way over all others at an intersection when the signal light is green?",
+        "options": [
+          "Pedestrians crossing with the light",
+          "Vehicles turning right",
+          "Pedestrians crossing against the light",
+          "Vehicles turning left"
+        ],
+        "answer": "Pedestrians crossing with the light"
+    },
+    {
+        "id": 60,
+        "image": "question59.png",
+        "question": "If you have G1 Licence most important thing is that you should",
+        "options": [
+          "Drive alone so that you won't get distracts",
+          "You must have driver with you at least four year driving experience",
+          "Hold the steering wheel with both hands",
+          "Drive only day time"
+        ],
+        "answer": "You must have driver with you at least four year driving experience"
+    },
+    {
+        "id": 61,
+        "image": "question60.png",
+        "question": "The driver sitting beside the G1 driver must have blood alcohol concentration less than",
+        "options": [
+            "0.05%",
+            "0.1%",
+            "0.5%",
+            "0.08%"
+        ],
+        "answer": "0.05%"
+    },
+    {
+        "id": 62,
+        "image": "question61.png",
+        "question": "You should under all conditions drive at a speed which will allow you to:",
+        "options": [
+            "Stop within 90m (300 ft)",
+            "Stop within 60m (200ft)",
+            "Stop within 150m (500 ft)",
+            "Stop within a safe distance"
+        ],
+        "answer": "Stop within a safe distance"
+    },
+    {
+        "id": 63,
+        "image": "question62.png",
+        "question": "If you have G1 Licence, the driver setting beside you should be",
+        "options": [
+            "Owner of the vehicle",
+            "Be your relative or friend",
+            "Must sit on the front seat alone",
+            "Must have done defensive driving course"
+        ],
+        "answer": "Must sit on the front seat alone"
+    },
+    {
+        "id": 64,
+        "image": "question63.png",
+        "question": "To change licence from G1 to G2, what someone should do?",
+        "options": [
+            "Pass the written test, for G2",
+            "Don't do any thing, after required time you will get G2 Licence by mail",
+            "Complete defensive driving course",
+            "After waiting the required time, pass the G1 Exist test"
+        ],
+        "answer": "After waiting the required time, pass the G1 Exist test"
+    },
+    {
+        "id": 65,
+        "image": "question64.png",
+        "question": ["When entering a freeway, you should signal, then:",
+                    "",
+                  "1. Stop on acceleration lane, wait for an opening, and then enter the freeway rapidly?",
+                  "2. Slow down and then enter freeway at a sharp angle?",
+                  "3. Drive slowly and be prepared to stop for freeway traffic?",
+                  "4. Accelerate quickly to freeway speed and merge with freeway traffic?"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 66,
+        "image": "question65.png",
+        "question": "Unless otherwise posted, the maximum speed limit on highway outside a city, town, village or built-up area is:",
+        "options": [
+            "100km (60mi) per hour",
+            "80 km (50 mi) per hour",
+            "60 km (35 mi) per hour",
+            "90 km (55 mi) per hour"
+        ],
+        "answer": "80 km (50 mi) per hour"
+    },
+    {
+        "id": 67,
+        "image": "question66.png",
+        "question": ["If you have a G2 Licence you should",
+                    "",
+                    "1. Your blood alcohol concentration should be 0.0%, you can carry only as many a passengers, as many working seat belts.",
+                    "2. You should not drive from midnight to 5 aim.",
+                    "3. Not drive on 400 series highway.",
+                    "4. Drive anywhere anytime you don't have any restrictions."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 68,
+        "image": "question67.png",
+        "question": ["If there is motorcycle in you lane you should",
+                    "",
+                    "1. Check mirror & blindspot, give the signal, if safe then make the lane change.",
+                    "2. Keep driving in same lane.",
+                    "3. Keep behind the motorcyclist so that motorcyclist will know that you are there.",
+                    "4. Blow the horn and ask the motorcycle to give away."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 69,
+        "image": "question68.png",
+        "question": "To get your vehicle out of skid, you should first:",
+        "options": [
+            "Steer straight ahead",
+            "Steer in the direction of the skid",
+            "Steer in the opposite direction of the skid",
+            "Apply brake hard"
+        ],
+        "answer": "Steer in the direction of the skid"
+    },
+    {
+        "id": 70,
+        "image": "question69.png",
+        "question": ["If there is motorcycle on the road you should Extra careful because",
+                    "",
+                    "1. Motorcycles are very expensive.",
+                    "2. Motorcycles is smaller in size that is why sometime it is hard to see and its is hard to estimate its speed.",
+                    "3. Motorcycles is not any danger to the car.",
+                    "4. It is motorcyclist responsibility to be more careful."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 2"
+    },
+    {
+        "id": 71,
+        "image": "question70.png",
+        "question": "If you are driving more than 50 Kms. over the posted speed limit or you charged with careless driving you could face.",
+        "options": [
+            "Fine.",
+            "Suspension",
+            "Demerit points.",
+            "Demerit points, fine, suspension"
+        ],
+        "answer": "Demerit points, fine, suspension"
+    },
+    {
+        "id": 72,
+        "image": "question71.png",
+        "question": "At an intersection where there is a flashing amber (yellow) traffic light, you must:",
+        "options": [
+            "Stop if making right turn",
+            "Continue at same speed",
+            "Stop if making left turn",
+            "Slow down and proceed with caution"
+        ],
+        "answer": "Slow down and proceed with caution"
+    },
+    {
+        "id": 73,
+        "image": "question72.png",
+        "question": "When lights are required; drivers must use lower beam head lights when following another vehicle:",
+        "options": [
+            "Within 30 m (100 ft)",
+            "Within 60 m (200 ft)",
+            "Within 120 m (400 ft)",
+            "This only applies when approaching another vehicle"
+        ],
+        "answer": "Within 60 m (200 ft)"
+    },
+    {
+        "id": 74,
+        "image": "question73.png",
+        "question": "When lights are required, drivers are required to use low beam headlights:",
+        "options": [
+          "Within 1 km (0.6 mi) of the approach of another vehicle",
+          "Within 150 m (500 ft) of the approach of another vehicle",
+          "Within 300 m (100 ft) of the approach of another vehicle",
+          "This is a safety practice, not a law"
+        ],
+        "answer": "Within 150 m (500 ft) of the approach of another vehicle"
+    },
+    {
+        "id": 75,
+        "image": "question74.png",
+        "question": "Unless otherwise posted, the maximum speed limit allowed in the city, town, village and built up area is:",
+        "options": [
+          "30 km (20 mi) per hour",
+          "50 km (30 mi) per hour",
+          "40 km (25 mi) per hour",
+          "60 km (35 mi) per hour"
+        ],
+        "answer": "50 km (30 mi) per hour"
+    },
+    {
+        "id": 76,
+        "image": "question75.png",
+        "question": "If your licence get suspended under what circumstance you could still drive",
+        "options": [
+            "If you think you are very skilled driver",
+            "Day time only",
+            "Just to back & forth to work only",
+            "You can not drive at all"
+        ],
+        "answer": "You can not drive at all"
+    },
+    {
+        "id": 77,
+        "image": "question76.png",
+        "question": "If you have G1 or G2 Licence, after how many demerit points your licence could be suspended",
+        "options": [
+            "4 demerit points",
+            "6 demerit points",
+            "8 demerit points",
+            "During first two year 9 or more demerit points"
+        ],
+        "answer": "During first two year 9 or more demerit points"
+    },
+    {
+        "id": 78,
+        "image": "question77.png",
+        "question": ["When the traffic signal-light facing you is red and you intend to go straight through the intersection, what must you do?",
+        "",
+        "1. Stop, give pedestrian the right-of-way, then proceeds with caution",
+        "2. Stop, proceed when the way is clear",
+        "3. Slow down; proceed when the way is clear",
+        "4. Stop; proceed only when the signal turns green and when the way is clear"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 79,
+        "image": "question78.png",
+        "question": "On a roadway where traffic is moving in both directions, in what position must you before making a left turn?",
+        "options": [
+            "Close to the right-hand side of the roadway",
+            "Close to the left- hand side of the roadway",
+            "Immediately to the right of the centre line of the roadway",
+            "Does not matter provided you signal"
+        ],
+        "answer": "Immediately to the right of the centre line of the roadway"
+    },
+    {
+        "id": 80,
+        "image": "question79.png",
+        "question": "While traveling on a highway, the driver of a motor vehicle is not permitted to carry, in a house or boat trailer:",
+        "options": [
+            "Firearms",
+            "Flammable material",
+            "Persons",
+            "Pets"
+        ],
+        "answer": "Persons"
+    },
+    {
+        "id": 81,
+        "image": "question80.png",
+        "question": ["When a streetcar is stopped to take on or discharge passengers, where there is no safety zone, what does the law require you to do before passing the streetcar?",
+          "",
+          "1. Stop behind the rear of the streetcar and then proceed",
+          "2. Sound horn and pass with caution",
+          "3. Pass on the left side when the way is clear",
+          "4. Stop 2m (6 ft) behind the rearmost door where passengers are getting on or off, and proceed only when it is safe to do so"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 82,
+        "image": "question81.png",
+        "question": "If you have G1 or G2 Licence and you have accumulated maximum allowable demerit points, for how long your licence will be suspended?",
+        "options": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "120 days"
+        ],
+        "answer": "60 days"
+    },
+    {
+        "id": 83,
+        "image": "question82.png",
+        "question": "If the transit bus driver is giving Signal to you leave after picking and dropping the passengers you should",
+        "options": [
+            "Speed up & pass the bus",
+            "Blow the horn & pass the bus",
+            "Stop or slow down and let the bus to go",
+            "Don't pay any attention to the bus"
+        ],
+        "answer": "Stop or slow down and let the bus to go"
+    },
+    {
+        "id": 84,
+        "image": "question83.png",
+        "question": "A flashing red signal light at an intersection means:",
+        "options": [
+            "Slow down and drive with increased caution",
+            "Slow down and if necessary yield right-of-way to cars approaching from the left or right",
+            "Signal light is out of order, proceed with caution",
+            "Stop, Proceed only when it is safe to do so"
+        ],
+        "answer": "Stop, Proceed only when it is safe to do so"
+    },
+    {
+        "id": 85,
+        "image": "question84.png",
+        "question": ["When a right turn against a red signal light is permitted, what does the law require you to do before entering the intersection and making the turn?",
+          "",
+          "1. Slow down, proceed with caution",
+          "2. Stop, and then merge into traffic",
+          "3. Stop, signal makes the turn so as not to interfere with other traffic, including pedestrians?",
+          "4. Slow down, signal and turn"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 86,
+        "image": "question85.png",
+        "question": "A flashing blue light mounted on a motor vehicle indicates:",
+        "options": [
+            "Motor vehicle carrying explosives",
+            "Snow removal equipment",
+            "An ambulance",
+            "A police emergency vehicle"
+        ],
+        "answer": "Snow removal equipment"
+    },
+    {
+        "id": 87,
+        "image": "question86.png",
+        "question": ["If you are involved in an accident in which someone is injured you must:",
+          "",
+          "1. Report the accident at once to the nearest provincial or municipal police office",
+          "2. Report the accident within 48 hours to the nearest provincial or municipal police office",
+          "3. Report the accident to you insurance company only",
+          "4. Report the accident to the Ministry of Transportation and Communications only"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 1"
+    },
+    {
+        "id": 88,
+        "image": "question87.png",
+        "question": "How close to a fire hydrant may you legally park?",
+        "options": [
+            "1.5 meters (5ft)",
+            "6 meters (20 ft)",
+            "4.5 meters (15 ft)",
+            "3 meters (10ft)"
+        ],
+        "answer": "3 meters (10ft)"
+    },
+    {
+        "id": 89,
+        "image": "question88.png",
+        "question": "You can be charged with dangerous or careless driving if you?",
+        "options": [
+            "Make sudden lane change on the highway",
+            "Forget put you signal",
+            "Do not wear you seat belt",
+            "Cause a collision while using cellular phone"
+        ],
+        "answer": "Cause a collision while using cellular phone"
+    },
+    {
+        "id": 90,
+        "image": "question89.png",
+        "question": "When you make a left turn what hand signal is correct",
+        "options": [
+            "Arm straight at out of window",
+            "Arm out and up",
+            "Arm out and down",
+            "Circle motion"
+        ],
+        "answer": "Arm straight at out of window"
+    },
+    {
+        "id": 91,
+        "image": "question90.png",
+        "question": ["Never change lanes in traffic without:",
+          "",
+          "1. Blowing your horn and looking to the rear",
+          "2. Looking into the rear view mirror only?",
+          "3. Giving proper signal and looking to make sure the move be made safely",
+          "4. Decreasing speed and giving correct signal"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 92,
+        "image": "question91.png",
+        "question": "A solid centre line on the roadway is on your side of a broken centre line. What does the solid line means?",
+        "options": [
+            "Pass at any time",
+            "It is safe to overtake and pass",
+            "Pass only when no traffic is in sight",
+            "It is unsafe to overtake and pass"
+        ],
+        "answer": "It is unsafe to overtake and pass"
+    },
+    {
+        "id": 93,
+        "image": "question92.png",
+        "question": "When a car is stopped to allow a pedestrian to cross the street at a marked cross walk, you should:",
+        "options": [
+            "Pass the stopped car to the right",
+            "Not pass any car stopped to allow a pedestrian to cross",
+            "Sound horn for the driver of the stopped car to drive on",
+            "Pass the stopped car on the left"
+        ],
+        "answer": "Not pass any car stopped to allow a pedestrian to cross"
+    },
+    {
+        "id": 94,
+        "image": "question93.png",
+        "question": "You are required to keep a safe distance behind the vehicle in front of you 50 kilometers (30 miles) an hour you should keep at least:",
+        "options": [
+          "Five car lengths behind the other vehicle?",
+          "One car length behind the other vehicle",
+          "Three car length behind the other vehicle",
+          "Seven car length behind the other vehicle"
+        ],
+        "answer": "Three car length behind the other vehicle"
+    },
+    {
+        "id": 95,
+        "image": "question94.png",
+        "question": ["When approaching an intersection and you notice the roadway behind the intersection is blocked with traffic, you should:",
+          "",
+          "1. Keep as close as possible to the car ahead",
+          "2. Proceed slowly into the intersection until the traffic ahead moves on",
+          "3. Stop before entering the intersection and wait until traffic ahead moves on",
+          "4. Sound horn to warn cars ahead to move on"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 96,
+        "image": "question95.png",
+        "question": "When approaching railway crossing at which an electrical or mechanical signal device is warning of approach of a train you must:",
+        "options": [
+            "Stop not less than 1.5 m (15 ft) from the nearest rail",
+            "Increase speed and cross tracks as quickly as possible",
+            "Stop not less than 5 m (15 ft) from the nearest rail",
+            "Slow down and proceed with caution"
+        ],
+        "answer": "Stop not less than 5 m (15 ft) from the nearest rail"
+    },
+    {
+        "id": 97,
+        "image": "question96.png",
+        "question": "Parking lights may be used:",
+        "options": [
+            "At any time",
+            "For parking only",
+            "When driving in heavy fog",
+            "When ?driving on well lighted street"
+        ],
+        "answer": "For parking only"
+    },
+    {
+        "id": 98,
+        "image": "question97.png",
+        "question": "When the driver of another vehicle is about to over take and pass your vehicle you must:",
+        "options": [
+            "Speed up so that passing is not necessary",
+            "Signal to other drivers not to pass",
+            "Move to the right and allow such vehicle to pass",
+            "Move to the left to prevent passing"
+        ],
+        "answer": "Move to the right and allow such vehicle to pass"
+    },
+    {
+        "id": 99,
+        "image": "question98.png",
+        "question": "When you making a right turn which of the following hand and arm signal is correct",
+        "options": [
+            "Arm out and down",
+            "Arm out and up",
+            "Circle motion",
+            "Arm straight out of window"
+        ],
+        "answer": "Arm out and up"
+    },
+    {
+        "id": 100,
+        "image": "question99.png",
+        "question": "When you making a U turn the most important things you remember",
+        "options": [
+            "Length of the Car",
+            "Height of the Curve",
+            "Where the Car coming",
+            "Traffic Rules"
+        ],
+        "answer": "Traffic Rules"
+    },
+    {
+        "id": 101,
+        "image": "question100.png",
+        "question": "Most automobile skids are the result of:",
+        "options": [
+            "Under-inflated tires",
+            "Over- inflated tires",
+            "Snow or ice on the road",
+            "Driving too fast"
+        ],
+        "answer": "Driving too fast"
+    },
+    {
+        "id": 102,
+        "image": "question101.png",
+        "question": "The best way to stop quickly on a wet or icy roadway is to:",
+        "options": [
+            "Pump the brake until you come to a stop",
+            "Keep the foot off brake and let compression stop you",
+            "Put brakes on hard and try to prevent vehicle from skidding",
+            "Apply brakes the same way you always do"
+        ],
+        "answer": "Pump the brake until you come to a stop"
+    },
+    {
+        "id": 103,
+        "image": "question102.png",
+        "question": ["Under which of the following conditions is it dangerous and unlawful to make ìUî turn?",
+          "",
+          "1. Upon a curve or on a hill where there is a clear view of less than 150 m (500 ft) in either direction.",
+          "2. On a railway crossing or within 30m (100ft) of a railway crossing.",
+          "3. Within 150 m (500 ft) of a bridge, viaduct or tunnel if driver's view is obstructed.",
+          "4. All of the above"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 104,
+        "image": "question103.png",
+        "question": ["Before moving your car from a parked position, you should:",
+          "",
+          "1. Signal and pull from curb.",
+          "2. Sound your horn and pull from curb slowly.",
+          "3. Check other traffic, signal and pull from curb quickly.",
+          "4. Check other traffic, signal and pull from curb when it is safe to do so."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 105,
+        "image": "question104.png",
+        "question": "When a truck becomes a disabled on the highway, where the speed limit is in excess of 60 km/hr flares or reflections must be placed approximately what distance ahead of and to the rear of the disable vehicle?",
+        "options": [
+            "15 m (50ft)",
+            "30 m (100 ft)",
+            "60 m (200 ft)",
+            "90 m (300 ft)"
+        ],
+        "answer": "30 m (100 ft)"
+    },
+    {
+        "id": 106,
+        "image": "question105.png",
+        "question": "Except when passing, what distance must be maintained between commercial vehicles traveling in the same direction on the highway outside a city town, or village?",
+        "options": [
+          "30 m (100 ft)",
+          "60 m (200 ft)",
+          "120 m (400 ft)",
+          "150 m (500 ft)"
+    ],
+        "answer": "60 m (200 ft)"
+    },
+    {
+        "id": 107,
+        "image": "question106.png",
+        "question": "If you are involved in a reportable accident how soon must you make a report to your nearest provincial or municipal police office?",
+        "options": [
+          "At once",
+          "Within 24 hours",
+          "Within 48 hours",
+          "Within 72 hours"
+        ],
+        "answer": "At once"
+    },
+    {
+        "id": 108,
+        "image": "question107.png",
+        "question": "When approaching a red traffic signal light and a police man motions you to go through, you must:",
+        "options": [
+            "Go through at once",
+            "Call the policeman's attention to the red light",
+            "Stop to make sure the policeman wants you to go through",
+            "Wait for the light to turn green"
+        ],
+        "answer": "Go through at once"
+    },
+    {
+        "id": 109,
+        "image": "question108.png",
+        "question": "What documents may a police officer require a motor vehicle owner to produce?",
+        "options": [
+          "A liability Insurance card",
+          "Ownership",
+          "A valid driver's license",
+          "All of the above"
+    ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 110,
+        "image": "question109.png",
+        "question": "In Ontario, when should you wear seat belt?",
+        "options": [
+          "Only for elderly people or children under sixteen years of age",
+          "In between business hours only",
+          "Always",
+          "Never"
+    ],
+        "answer": "Always"
+    },
+    {
+        "id": 111,
+        "image": "question110.png",
+        "question": "When stopped by police at a roadside spot check and asked to provide a breath sample?",
+        "options": [
+            "You can refuse until a lawyer comes",
+            "It is a criminal offence to refuse",
+            "It is a traffic offence to refuse",
+            "You can refuse if you've had nothing to drink"
+        ],
+        "answer": "It is a criminal offence to refuse"
+    },
+    {
+        "id": 112,
+        "image": "question111.png",
+        "question": "If you are convicted of drinking and driving you will lose your driver's license on the first offence for:",
+        "options": [
+            "1 month",
+            "3 months",
+            "6 months",
+            "1 year"
+        ],
+        "answer": "1 year"
+    },
+    {
+        "id": 113,
+        "image": "question112.png",
+        "question": "At what level of alcohol in the blood can you be convicted of being an impaired driver?",
+        "options": [
+          "0.03%",
+          "0.05%",
+          "0.08%",
+          "1.0%"
+    ],
+        "answer": "0.08%"
+    },
+    {
+        "id": 114,
+        "image": "question113.png",
+        "question": "Every accident must be reported to the police where there is personal injury or when the damage exceeds?",
+        "options": [
+          "$100",
+          "$150",
+          "$200",
+          "$1000"
+    ],
+        "answer": "$1000"
+    },
+    {
+        "id": 115,
+        "image": "question114.png",
+        "question": "At night when you meet another vehicle with blinding bright lights, the safest thing to do is?",
+        "options": [
+            "Open and shut your eyes rapidly",
+            "Look at the headlights of the approaching vehicle",
+            "Turn slightly to the right hand side",
+            "Look slightly to the right hand side"
+        ],
+        "answer": "Look slightly to the right hand side"
+    },
+    {
+        "id": 116,
+        "image": "question115.png",
+        "question": "In what position on the roadway must you be before making a left turn from a one way traffic street?",
+        "options": [
+          "Close to the right-hand side of the roadway",
+          "Close to the centre line of the roadway",
+          "Close to the left side of the roadway",
+          "Does not matter provided you signal"
+    ]   ,
+        "answer": "Close to the left side of the roadway"
+    },
+    {
+        "id": 117,
+        "image": "question116.png",
+        "question": "When may you lend your driver's license?",
+        "options": [
+          "Never",
+          "To another person who is learning to drive",
+          "For identification purposes only",
+          "In emergency"
+        ],
+        "answer": "Never"
+    },
+    {
+        "id": 118,
+        "image": "question117.png",
+        "question": ["Are cars drivers responsible for their passengers buckling up?",
+          "",
+          "1. Only if passengers are over sixteen years of age.",
+          "2. Only if passengers are from five years of age up to sixteen.",
+          "3. Only if passengers are in the front seat.",
+          "4. Only if passengers are over eighteen years of age,"],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 2"
+    },
+    {
+        "id": 119,
+        "image": "question118.png",
+        "question": "How soon after a licensed driver changes his/her name or address is he/she required to notify the Ministry of Transportation and Communications:",
+        "options": [
+          "Within 6 days",
+          "Within 15 days",
+          "Within 30 days",
+          "At any time prior to renewal of license"
+        ],
+        "answer": "Within 6 days"
+    },
+    {
+        "id": 120,
+        "image": "question119.png",
+        "question": "A flashing green light at an intersection where turns to the left and right are permitted, means:",
+        "options": [
+          "You may turn to the left if the way is clear",
+          "You may turn to the right if the way is clear",
+          "You may proceed straight through if the way is clear",
+          "You may do any of the above"
+        ],
+        "answer": "You may do any of the above"
+    },
+    {
+        "id": 121,
+        "image": "question120.png",
+        "question": ["To what penalties is a driver liable who is convicted of driving while disqualified?",
+          "",
+          "1. A fine of $500 or imprisonment for six months or both.",
+          "2. Impoundment of the motor vehicle being operated for three months.",
+          "3. An additional 6 month period of suspension of driving privilege.",
+          "4. Any or all of the above."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 122,
+        "image": "question121.png",
+        "question": ["When it is safe to do so, passing other vehicles on the right sides:",
+          "",
+          "1. Is permitted on any street of highway.",
+          "2. Is permitted providing it is possible to do so by driving on the shoulder of the road.",
+          "3. Is not permitted under any circumstances.",
+          "4. Is not permitted when the street or highway has two or more lanes for traffic in the direction you are traveling."],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 123,
+        "image": "question122.png",
+        "question": ["When a red signal light with a green arrow is shown at an intersection it means:",
+          "",
+          "1. Stop and wait for green light before making turn in the direction of the arrow.",
+          "2. Proceed with caution in the direction of the arrow yielding right-of-way to pedestrians and other traffic.",
+          "3. Stop and then proceed.",
+          "4. The green arrow is a signal for pedestrians only."
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 2"
+    },
+    {
+        "id": 124,
+        "image": "question123.png",
+        "question": ["When may a driver make a left turn on a red light?",
+          "",
+          "1. When the way is clear.",
+          "2. On any red light.",
+          "3. From a one way street into a one-way street when the way is clear and the vehicle has been brought to a full stop.",
+          "4. From a two way street into a two way street when the way is clear, and the vehicle has been brought to a full stop."
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 125,
+        "image": "question124.png",
+        "question": "When a blowout occurs you should:",
+        "options": [
+          "Let up on the accelerator and concentrate on steering",
+          "Accelerate and steer to the left",
+          "Accelerate and steer to the right",
+          "Let up on the accelerator and jam on the brakes"
+        ],
+        "answer": "Let up on the accelerator and concentrate on steering"
+    },
+    {
+        "id": 126,
+        "image": "question125.png",
+        "question": "In what lane of traffic should you drive when you intend to make a right-hand turn?",
+        "options": [
+          "Close to the left side of the roadway",
+          "Close to the right-hand side of the roadway",
+          "Close centre line of the roadway",
+          "Does not matter provided you signal"
+        ],
+        "answer": "Close to the right-hand side of the roadway"
+    },
+    {
+        "id": 127,
+        "image": "question126.png",
+        "question": ["Under which of the following conditions is the road likely to be most slippery?",
+          "",
+          "1. After it has rained for several hours.",
+          "2. For the first few minutes after it starts for rain or following a light drizzle.",
+          "3. When centre-line markings have just been painted.",
+          "4. When the highway is new and first used by the public."
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 2"
+    },
+    {
+        "id": 128,
+        "image": "question127.png",
+        "question": ["While driving around curve a good practice is to:",
+          "",
+          "1. Ride in the centre of the road.",
+          "2. Enter the curve at a steady speed and apply brakes if needed.",
+          "3. Slow down when entering curve only when pavement is slippery.",
+          "4. Enter curve slowly and increase speed as the driver gets the 'feel' of the curve."
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 4"
+    },
+    {
+        "id": 129,
+        "image": "question128.png",
+        "question": "When a license is reinstated after 15- point suspension the point total:",
+        "options": [
+          "Is reduced to seven",
+          "Is reduced to nine",
+          "Remains the same?=",
+          "Is deleted from record"
+        ],
+        "answer": "Is reduced to seven"
+    },
+    {
+        "id": 130,
+        "image": "question129.png",
+        "question": ["When does the law require lights on vehicles to be turned on?",
+          "",
+          "1. Between dust and dawn and at any other time you cannot see clearly for a distance of 150 meters (500 ft).",
+          "2. Between ½ hour before sunset to ½ hour after sunrise and at any other time you cannot see clearly for a distance of 150 meters (500 ft).",
+          "3. Between sunset and sunrise.",
+          "4. No specified time."
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 2"
+    },
+    {
+        "id": 131,
+        "image": "question130.png",
+        "question": "When two cars reach an uncontrolled intersection at approximately the same time, the right-of-way should be given to:",
+        "options": [
+            "The one moving faster",
+            "Neither one",
+            "The one approaching from the right",
+            "The one approaching from the left"
+        ],
+        "answer": "The one approaching from the right"
+    },
+    {
+        "id": 132,
+        "image": "question131.png",
+        "question": ["What must a driver do before entering a highway from a private road or driveway?",
+          "",
+          "1. Sound horn and proceed with caution.",
+          "2. Enter or cross the highway as quickly as possible.",
+          "3. Yield right-of-way to all vehicles approaching on the highway.",
+          "4. Give hand signal then take right-of-way."
+        ],
+        "options": ["Ans 1", "Ans 2", "Ans 3", "Ans 4"],
+        "answer": "Ans 3"
+    },
+    {
+        "id": 133,
+        "image": "question132.png",
+        "question": "It is more dangerous to drive at the maximum speed limit at night than during day time because:",
+        "options": [
+            "The roadways are more apt to be slippery at night",
+            "You cannot see as far as ahead at night",
+            "Your reaction time is slower at night",
+            "Some drivers unlawfully drive with parking lights only"
+        ],
+        "answer": "You cannot see as far as ahead at night"
+    }
+  ]
+}
+
