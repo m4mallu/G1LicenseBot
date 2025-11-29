@@ -176,7 +176,7 @@ async def about(_, message):
         "🇨🇦 **About This Bot** 🇨🇦\n\n"
         "This Telegram bot helps you practice for the Ontario G1 driving test using image-based quiz questions.\n\n"
         "**Source Code & Contributions:**\n"
-        "[GitHub Repository](https://github.com/m4mallu/G1LicenceBot)\n\n"
+        "[GitHub Repository](https://github.com/m4mallu/G1LicenseBot)\n\n"
         "**Report Issues:**\n"
         "Please submit bugs or suggestions through the repository’s "
         "[Issues Page](https://github.com/m4mallu/G1LicenceBot/issues)\n\n"
