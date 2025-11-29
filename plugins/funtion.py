@@ -81,9 +81,6 @@ async def start_quiz(client, message: Message):
 async def send_question(client, user_id):
     q_index = user_data[user_id]["current_question"]
 
-    # -------------------------------
-    # END OF QUIZ (UPDATED VERSION)
-    # -------------------------------
     if q_index >= len(QUIZ):
 
         # 1. Send initial calculating message
@@ -131,11 +128,6 @@ async def send_question(client, user_id):
         # Track final message
         user_data[user_id]["all_msgs"].append(calculating_msg.id)
         return
-
-
-    # -------------------------------
-    # NORMAL QUESTION FLOW
-    # -------------------------------
 
     # Delete previous question message
     last_msg = user_data[user_id].get("last_msg")
@@ -330,6 +322,7 @@ async def list_users(client, message: Message):
         )
     await message.delete()
 
+
 # This function broadcast messages to the bot users. (Admin use only)--------------------------------------
 @Client.on_message(filters.command("broadcast"))
 async def broadcast_message(client, message: Message):
@@ -441,7 +434,6 @@ async def reload_bot(client, message: Message):
 
     # Restart the bot — no post-start message will be sent
     os.execv(sys.executable, [sys.executable] + sys.argv)
-
 
 
 # Callback handler -------------------------------------------------
