@@ -179,7 +179,7 @@ async def about(_, message):
         "[GitHub Repository](https://github.com/m4mallu/G1LicenseBot)\n\n"
         "**Report Issues:**\n"
         "Please submit bugs or suggestions through the repository’s "
-        "[Issues Page](https://github.com/m4mallu/G1LicenceBot/issues)\n\n"
+        "[Issues Page](https://github.com/m4mallu/G1LicenseBot/issues)\n\n"
         "Thank you for helping improve this project!"
     )
     close_button = InlineKeyboardMarkup(
